@@ -1,3 +1,6 @@
 # ninja log v5
-1	298	7220751245091580	CMakeFiles/cpp_codingTest.dir/main.cpp.obj	66578cad0f2863c4
-300	405	7220751246117552	cpp_codingTest.exe	bfa24a275a58f76c
+2	265	7220767231610659	CMakeFiles/cpp_codingTest.dir/main.cpp.obj	66578cad0f2863c4
+266	372	7220767232612305	cpp_codingTest.exe	bfa24a275a58f76c
+0	161	7220769907004364	build.ninja	6ef88011b8070297
+0	258	7220769910253122	CMakeFiles/cpp_codingTest.dir/Ch01_List_Stack_Queue/01_array1.cpp.obj	ab13335cde87bda9
+259	354	7220769911165065	cpp_codingTest.exe	a692a38cc75e3915
